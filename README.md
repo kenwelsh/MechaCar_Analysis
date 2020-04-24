@@ -2,9 +2,9 @@
 
 ### MechaCar Technical Report
 
-[Link to Technical Report - HTML version]( https://kenwelsh.github.io/MechaCar_Analysis/ "MechaCar Technical Report (HTML)")
+<a href="https://kenwelsh.github.io/MechaCar_Analysis/" target="_blank">Link to Technical Report - HTML version</a>
 
-[Link to Technical Report - TXT version]( https://github.com/kenwelsh/MechaCar_Analysis/blob/master/MechaCarWriteUp.txt "MechaCar Technical Report (TXT)")
+<a href="https://github.com/kenwelsh/MechaCar_Analysis/blob/master/MechaCarWriteUp.txt" target="_blank">Link to Technical Report - TXT version</a>
 
 
 #### MPG Multiple Linear Regression
